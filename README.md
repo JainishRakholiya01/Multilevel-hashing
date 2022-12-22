@@ -85,7 +85,3 @@ Four-level hash table with AVL representation we can handle 58823 comparisons in
 
 Multilevel hash function is a really important data structure for handling a large number of keys. This data structure is used in database management systems to retrieve record data quickly. The given hash implementation is written in C++ with time to lookup for a given particular key.
 
-Video Link:
-
-https://drive.google.com/drive/u/1/folders/1sYB7sr4UyOaeIcSS6KGYpZ_BL59vjzpF
-
